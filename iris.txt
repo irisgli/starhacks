@@ -1,0 +1,9 @@
+iris li 
+
+git add = used to add a file that is in the working directory to the staging area 
+git commit = command that is used to add all files that are staged to the local repository 
+git push = command that used to add all committed files to the local repository to the remote repository
+in the remote repository, all files and changes will be visible with anyone with access to the remote repository
+git pull = command is used to get files from the remote repository directly into the working directory, 
+equivalent to a git fetch and a git merge
+git clone = allows you to retrieve a remote repository and make a local version! 
